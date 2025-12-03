@@ -1,0 +1,3 @@
+Here is my qodex exercise, my repo contain; 
+* file sql : script sql to create tables and insert ...
+* image : ERD exmaple of relations between tables
