@@ -1,3 +1,6 @@
+-- first we create a db
+
+        CREATE DATABASE qodex;
 
         
 -- TABLE utilisateurs
